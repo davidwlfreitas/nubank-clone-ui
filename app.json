@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Vue Native BoilerPlate",
-    "slug": "vueNativeBoilerplate",
+    "name": "Nubank Clone UI",
+    "slug": "nubankCloneUI",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [

@@ -22,7 +22,7 @@ const Drawer = DrawerNavigator(
     Welcome: { screen: WelcomeScreen },
   },
   {
-    initialRouteName: 'Brands',
+    initialRouteName: 'Home',
     contentComponent: props => <Sidebar {...props} />,
   },
 );
