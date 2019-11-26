@@ -14,9 +14,21 @@ export default class AnimatedOpacity extends Component {
   }
   render() {
     const animationStyles = {
-      opacity: this.state.animation,
-      width: '100%',
-      justifyContent: 'center',
+      transform: this.props.showReverse
+        ? [
+            {
+              translateY: this.props.translateY.interpolate({
+                inputRange: [0, 480],
+                outputRange: [0, 50],
+                extrapolate: 'clamp',
+              }),
+            },
+          ]
+        : [],
+      opacity: this.props.translateY.interpolate({
+        inputRange: [0, 150],
+        outputRange: this.props.showReverse ? [1, 0.3] : [0, 1],
+      }),
       alignItems: 'center',
     };
     return (

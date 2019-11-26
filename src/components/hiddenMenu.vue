@@ -1,5 +1,9 @@
 <template>
-  <view class="menu-content" :style="styleMenu">
+  <view class="menu-content">
+    <view class="qr-code">
+      <qr-code :url="qrCode" :size="80" bgColor="#fff" fgColor="#8b10ae" />
+    </view>
+
     <nb-list class="menu-list-items">
       <nb-list-item></nb-list-item>
       <nb-list-item>
@@ -44,30 +48,27 @@
 </template>
 
 <script>
+import QrCode from '../components/qrCode';
 export default {
-  props: {
-    translateY: Object,
+  components: {
+    QrCode,
   },
   data() {
     return {
-      styleMenu: '',
+      qrCode: 'https://nubank.com.br/en/',
     };
-  },
-  watch: {
-    translateY(newValue) {
-      this.styleMenu = {
-        opacity: newValue.interpolate({
-          inputRange: [0, 150],
-          outputRange: [0, 1],
-        }),
-      };
-    },
   },
 };
 </script>
 
 <style lang="scss" scoped>
 .menu-content {
+  width: 100%;
+  align-items: center;
+  flex: 1;
+  position: absolute;
+}
+.menu-list-items {
   width: 100%;
 }
 .tab-text {
@@ -84,5 +85,9 @@ export default {
 }
 .last-item {
   border-bottom-color: transparent;
+}
+.qr-code {
+  padding: 10px;
+  background-color: #fff;
 }
 </style>

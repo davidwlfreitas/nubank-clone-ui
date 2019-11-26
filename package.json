@@ -19,7 +19,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-native-custom-qr-codes-expo": "^2.2.0",
     "react-native-gesture-handler": "~1.3.0",
-    "react-native-svg": "^9.13.3",
+    "react-native-svg": "~9.9.2",
     "react-native-web": "^0.11.7",
     "vue-native-core": "0.1.4",
     "vue-native-helper": "0.1.4",

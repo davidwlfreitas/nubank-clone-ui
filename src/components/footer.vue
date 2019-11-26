@@ -56,10 +56,11 @@ export default {
 <style lang="scss" scoped>
 .scroll-view-items {
   overflow: hidden;
-  bottom: 40;
+  bottom: 30;
   height: 100px;
   background-color: #8b10ae;
   margin-left: 10px;
+  position: absolute;
 }
 .tab-item {
   width: 100px;
