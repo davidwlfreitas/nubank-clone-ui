@@ -16,7 +16,6 @@ const store = new Vuex.Store({
 
   state: {
     activeType: 'posts',
-    currentOrganization: {},
     posts: [],
     logging_in: false,
     userObj: {},

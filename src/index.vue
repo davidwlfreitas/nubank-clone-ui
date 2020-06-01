@@ -12,14 +12,10 @@ import { Root } from 'native-base';
 import LoginScreen from './screens/login.vue';
 import Sidebar from './screens/sidebar.vue';
 import HomeScreen from './screens/home/index.vue';
-import Brands from './components/brands.vue';
-import WelcomeScreen from './components/welcome.vue';
 
 const Drawer = DrawerNavigator(
   {
     Home: { screen: HomeScreen },
-    Brands: { screen: Brands },
-    Welcome: { screen: WelcomeScreen },
   },
   {
     initialRouteName: 'Home',

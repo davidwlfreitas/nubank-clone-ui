@@ -33,7 +33,3 @@ export function LOGOUT({ commit, state }, callback) {
     });
   });
 }
-
-export function SET_ORGANIZATION({ commit, state }, { organization }) {
-  return commit('SET_CURRENT_ORGANIZATION', { organization });
-}
