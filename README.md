@@ -1,7 +1,7 @@
 # nubank-clone-ui
 Nubank Clone UI
 
-A Nubank Clone UI app made with [vue-native](https://vue-native.io/) using [vuex](https://vuex.vuejs.org/), [expo](https://docs.expo.io/) and [nativebase](https://nativebase.io/).
+A Nubank Clone UI app made with [vue-native](https://vue-native.io/) using [expo](https://docs.expo.io/) and [nativebase](https://nativebase.io/).
 
 ## Features
 
