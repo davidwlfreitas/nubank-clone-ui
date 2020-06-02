@@ -5,10 +5,10 @@ A Nubank Clone UI app made with [vue-native](https://vue-native.io/) using [vuex
 
 ## Features
 
-- Infinite scroll
-- Load imagens on scroll
-- Preload blurred images
-- Pull to Refresh
+- Up/down Card Animation
+- Opacity Animations 
+- Preload blurred footer
+- QRCode Component (PS:. Just for IOs at the moment)
 
 ## Preview
 

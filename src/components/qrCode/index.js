@@ -12,6 +12,7 @@ export default class QrCode extends Component {
         size={this.props.size}
         backgroundColor={this.props.bgColor}
         color={this.props.fgColor}
+        codeStyle="sharp"
       />
     );
   }

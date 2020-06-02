@@ -60,7 +60,7 @@ export default {
   height: 100px;
   background-color: #8b10ae;
   margin-left: 10px;
-  position: absolute;
+  position: relative;
 }
 .tab-item {
   width: 100px;

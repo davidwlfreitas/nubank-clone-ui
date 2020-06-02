@@ -2,7 +2,6 @@
 import React, { Component } from 'react';
 import { Animated, Dimensions } from 'react-native';
 
-//import { Container, Content, Text, StyleProvider } from 'native-base';
 export default class AnimatedUpDown extends Component {
   state = {
     animation: new Animated.Value(0),

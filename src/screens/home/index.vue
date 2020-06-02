@@ -86,7 +86,6 @@ export default {
 <style lang="scss" scoped>
 .container {
   background-color: #8b10ae;
-  padding-top: 80px;
   justify-content: center;
 }
 .header {

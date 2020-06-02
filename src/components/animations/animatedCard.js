@@ -35,7 +35,7 @@ export default class AnimatedCard extends Component {
             transform: [
               {
                 translateY: this.props.translateY.interpolate({
-                  inputRange: [-350, 0, 480],
+                  inputRange: [-350, 0, 520],
                   outputRange: [-50, 0, 550],
                   extrapolate: 'clamp',
                 }),
