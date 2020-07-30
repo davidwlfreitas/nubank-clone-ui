@@ -1,4 +1,4 @@
-![Nubank Logo](https://avatars2.githubusercontent.com/u/4257275?s=200&v=4)
+![Nubank Logo](https://cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/004/821/original/nubank_logo_purple.png?1562934437)
 # :bank: Nubank Clone UI
 
 A Nubank Clone UI app made with [vue-native](https://vue-native.io/) using [expo](https://docs.expo.io/) and [nativebase](https://nativebase.io/).
