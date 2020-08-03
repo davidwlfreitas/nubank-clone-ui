@@ -69,7 +69,7 @@ This works just like start, but also attempts to open your app on a connected An
 
 ## :closed_book: License
 
-This project is under the [MIT license](https://github.com/davidwlfreitas/nubank-clone-ui/blob/master/LICENSE).
+Released in 2019. This project is under the [MIT license](https://github.com/davidwlfreitas/nubank-clone-ui/blob/master/LICENSE).
 
 ## :tada: Credits to [Rocketseat](https://rocketseat.com.br/)
 
