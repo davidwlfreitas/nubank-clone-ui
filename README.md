@@ -39,7 +39,7 @@ or
 
     $ yarn
 
-## :runner: Running the App
+## :tophat: Running the App
 
 
     $ npm run start
@@ -69,8 +69,10 @@ This works just like start, but also attempts to open your app on a connected An
 
 ## :closed_book: License
 
-[MIT](http://opensource.org/licenses/MIT)
+This project is under the [MIT license](https://github.com/davidwlfreitas/nubank-clone-ui/blob/master/LICENSE).
 
 ## :tada: Credits to [Rocketseat](https://rocketseat.com.br/)
 
 A huge thanks to the Rocketseat Team for the amazing contribution through excellent React Native Training Courses.
+
+Made with :beers: by [David Freitas](https://github.com/davidwlfreitas) :8ball:
