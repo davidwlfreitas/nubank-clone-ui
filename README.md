@@ -9,24 +9,24 @@ A Nubank Clone UI app made with [vue-native](https://vue-native.io/) using [expo
 [![Forks](https://img.shields.io/github/forks/davidwlfreitas/nubank-clone-ui?color=%238b10ae&style=flat-square)](https://github.com/davidwlfreitas/nubank-clone-ui/network/members)
 [![Contributors](https://img.shields.io/github/contributors/davidwlfreitas/nubank-clone-ui?color=8b10ae&style=flat-square)](https://github.com/davidwlfreitas/nubank-clone-ui/graphs/contributors)
 
-## :rocket:  Features
+# :rocket:  Features
 
 - Up/down Card Animation
 - Opacity Animations 
 - Preload blurred footer
 - QRCode Component (PS:. Just for IOs at the moment)
 
-## :clapper: Preview
+# :clapper: Preview
 
 ![Preview](preview.gif)
 
-## :pushpin: System Requirements
+# :pushpin: System Requirements
 
  - Globally installed node >= 6.0
  - Globally installed npm or yarn
  - Globally installed Expo CLI
 
-## :construction_worker: Installation
+# :construction_worker: Installation
 
     $ git clone https://github.com/davidwlfreitas/nubank-clone-ui.git
     $ cd nubank-clone-ui
@@ -39,7 +39,7 @@ or
 
     $ yarn
 
-## :tophat: Running the App
+# :tophat: Running the App
 
 
     $ npm run start
@@ -48,8 +48,8 @@ or
     $ yarn start
 
 
-### Alternatively, you can start the app directly on platform simulators:
-#### iOS
+## Alternatively, you can start the app directly on platform simulators:
+### iOS
 
     $ npm run ios
 or
@@ -58,7 +58,7 @@ or
 
 This works just like start, but also attempts to open your app in the iOS Simulator if you’re on a Mac and have it installed.
 
-#### Android
+### Android
 
     $ npm run android
 or
@@ -67,11 +67,11 @@ or
 
 This works just like start, but also attempts to open your app on a connected Android device or emulator. It requires an installation of Android build tools (see the React Native docs for detailed setup).
 
-## :closed_book: License
+# :closed_book: License
 
 Released in 2019. This project is under the [MIT license](https://github.com/davidwlfreitas/nubank-clone-ui/blob/master/LICENSE).
 
-## :tada: Credits to [Rocketseat](https://rocketseat.com.br/)
+# :tada: Credits to [Rocketseat](https://rocketseat.com.br/)
 
 A huge thanks to the Rocketseat Team for the amazing contribution through excellent React Native Training Courses.
 
