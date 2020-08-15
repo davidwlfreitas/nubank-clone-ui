@@ -9,6 +9,27 @@ A Nubank Clone UI app made with [vue-native](https://vue-native.io/) using [expo
 [![Forks](https://img.shields.io/github/forks/davidwlfreitas/nubank-clone-ui?color=%238b10ae&style=flat-square)](https://github.com/davidwlfreitas/nubank-clone-ui/network/members)
 [![Contributors](https://img.shields.io/github/contributors/davidwlfreitas/nubank-clone-ui?color=8b10ae&style=flat-square)](https://github.com/davidwlfreitas/nubank-clone-ui/graphs/contributors)
 
+# :clapper: Preview
+
+---
+
+<p align="center">
+    <img src="preview.gif" width="700"/>
+</p>
+
+---
+
+# :pushpin: Table of Contents
+
+* [Features](#rocket-features)
+* [System Requirements](#computer-system-requirements)
+* [Installation](#construction_worker-installation)
+* [Running the App](#tophat-running-the-app)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [License](#closed_book-license)
+* [Credits](#confetti_ball-credits-to-rocketseat)
+
 # :rocket:  Features
 
 - Up/down Card Animation
@@ -16,11 +37,7 @@ A Nubank Clone UI app made with [vue-native](https://vue-native.io/) using [expo
 - Preload blurred footer
 - QRCode Component (PS:. Just for IOs at the moment)
 
-# :clapper: Preview
-
-![Preview](preview.gif)
-
-# :pushpin: System Requirements
+# :computer: System Requirements
 
  - Globally installed node >= 6.0
  - Globally installed npm or yarn
@@ -67,11 +84,19 @@ or
 
 This works just like start, but also attempts to open your app on a connected Android device or emulator. It requires an installation of Android build tools (see the React Native docs for detailed setup).
 
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the the [Nubank Clone UI](https://github.com/davidwlfreitas/nubank-clone-ui/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/davidwlfreitas/nubank-clone-ui/blob/master/CONTRIBUTING.md) to find out about the coding standards.
+
+# :tada: Contributing
+
+Check out the [contributing](https://github.com/davidwlfreitas/nubank-clone-ui/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
 # :closed_book: License
 
 Released in 2019. This project is under the [MIT license](https://github.com/davidwlfreitas/nubank-clone-ui/blob/master/LICENSE).
 
-# :tada: Credits to [Rocketseat](https://rocketseat.com.br/)
+# :confetti_ball: Credits to [Rocketseat](https://rocketseat.com.br/)
 
 A huge thanks to the Rocketseat Team for the amazing contribution through excellent React Native Training Courses.
 
